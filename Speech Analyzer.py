@@ -13,7 +13,7 @@ from ibm_watson_machine_learning.foundation_models import Model
 #######------------- LLM-------------####
 
 my_credentials = {
-    "url"    : "https://us-south.ml.cloud.ibm.com"
+    # add credentials
 }
 
 params = {
@@ -25,7 +25,7 @@ LLAMA2_model = Model(
         model_id= 'meta-llama/llama-2-70b-chat', 
         credentials=my_credentials,
         params=params,
-        project_id="skills-network",  
+        project_id="speech-summarizer",  
         )
 
 llm = WatsonxLLM(LLAMA2_model)  
