@@ -70,8 +70,4 @@ This project provides tools for transcribing and summarizing audio content, part
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](link-to-your-issues-page).
-
-## 📄 License
-
-This project is licensed under the [MIT License](link-to-your-license-file).
+Contributions, issues, and feature requests are welcome! 
