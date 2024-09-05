@@ -1,4 +1,4 @@
-# Meeting Summarizer and Speech Analyzer
+# Audio Summarizer and Speech Analyzer
 
 This project provides tools for transcribing and summarizing audio content, particularly useful for meeting recordings or speech analysis.
 
